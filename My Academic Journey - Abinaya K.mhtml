@@ -1,0 +1,760 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: My Academic Journey - Abinaya K
+Date: Wed, 30 Sep 2026 16:43:27 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HeMgqKxMGssbabE0FNfvjvSyGoiZrahFTK3DZYizHA----"
+
+
+------MultipartBoundary--HeMgqKxMGssbabE0FNfvjvSyGoiZrahFTK3DZYizHA----
+Content-Type: text/html
+Content-ID: <frame-D44873B032646206E0BE39F3EDE65478@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>My Academic Journey - Abinaya K</title>
+    <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/style.css">
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class=3D"hero">
+        <div class=3D"hero-content">
+            <p class=3D"top-title">MY ACADEMIC JOURNEY</p>
+
+            <h1>ABINAYA K</h1>
+
+            <p>BCA =E2=80=93 Bachelor of Computer Applications</p>
+            <p>University of Madras</p>
+
+            <div class=3D"academic-year">
+                Academic Year: <strong>2024 =E2=80=93 2027</strong>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- ACADEMIC GROWTH -->
+    <section class=3D"academic-growth">
+
+        <div class=3D"section-title">
+            <h2>Academic Growth</h2>
+            <p>Semester-wise academic progress</p>
+        </div>
+
+        <div class=3D"growth-box">
+
+            <div class=3D"growth-item">
+                <span>Semester 1</span>
+                <strong>82.00%</strong>
+            </div>
+
+            <div class=3D"growth-item">
+                <span>Semester 2</span>
+                <strong>74.00%</strong>
+            </div>
+
+            <div class=3D"growth-item">
+                <span>Semester 3</span>
+                <strong>91.67%</strong>
+            </div>
+
+            <div class=3D"growth-item">
+                <span>Semester 4</span>
+                <strong>85.67%</strong>
+            </div>
+
+            <div class=3D"growth-item">
+                <span>Semester 5</span>
+                <strong>95%</strong>
+            </div>
+
+            <div class=3D"growth-item">
+                <span>Semester 6</span>
+                <strong>98%</strong>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- MAJOR SUBJECT GROWTH -->
+    <section class=3D"major-growth">
+
+        <div class=3D"section-title">
+            <h2>Major Subject Growth</h2>
+            <p>Semester-wise performance growth</p>
+        </div>
+
+        <div class=3D"chart-box">
+
+            <div class=3D"chart-area">
+
+                <div class=3D"y-axis">
+                    <span>100%</span>
+                    <span>80%</span>
+                    <span>60%</span>
+                    <span>40%</span>
+                    <span>20%</span>
+                    <span>0%</span>
+                </div>
+
+                <div class=3D"line-chart">
+
+                    <div class=3D"horizontal-line"></div>
+                    <div class=3D"horizontal-line"></div>
+                    <div class=3D"horizontal-line"></div>
+                    <div class=3D"horizontal-line"></div>
+                    <div class=3D"horizontal-line"></div>
+                    <div class=3D"horizontal-line"></div>
+
+                    <svg viewBox=3D"0 0 600 300" preserveAspectRatio=3D"non=
+e">
+
+                        <polyline points=3D"30,54 140,78 250,25 360,43 470,=
+15 570,6" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"4" stroke-l=
+inecap=3D"round" stroke-linejoin=3D"round"></polyline>
+
+                        <circle cx=3D"30" cy=3D"54" r=3D"6"></circle>
+                        <circle cx=3D"140" cy=3D"78" r=3D"6"></circle>
+                        <circle cx=3D"250" cy=3D"25" r=3D"6"></circle>
+                        <circle cx=3D"360" cy=3D"43" r=3D"6"></circle>
+                        <circle cx=3D"470" cy=3D"15" r=3D"6"></circle>
+                        <circle cx=3D"570" cy=3D"6" r=3D"6"></circle>
+
+                    <!-- Code injected by live-server -->
+
+</svg>
+
+                </div>
+
+            </div>
+
+
+            <div class=3D"x-axis">
+
+                <span>
+                    Sem 1
+                    <strong>82%</strong>
+                </span>
+
+                <span>
+                    Sem 2
+                    <strong>74%</strong>
+                </span>
+
+                <span>
+                    Sem 3
+                    <strong>91.67%</strong>
+                </span>
+
+                <span>
+                    Sem 4
+                    <strong>85.67%</strong>
+                </span>
+
+                <span>
+                    Sem 5
+                    <strong>95%</strong>
+                </span>
+
+                <span>
+                    Sem 6
+                    <strong>98%</strong>
+                </span>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ALL SUBJECTS -->
+<section class=3D"all-subjects">
+
+    <div class=3D"section-title">
+        <h2>My All Subjects</h2>
+        <p>Complete semester-wise marksheet</p>
+    </div>
+
+
+    <!-- SEMESTER 1 -->
+    <div class=3D"marksheet-box">
+
+        <h3>Semester 1</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Code</th>
+                    <th>UE</th>
+                    <th>IA</th>
+                    <th>Total Mark</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>100L1A</td>
+                    <td>31</td>
+                    <td>24</td>
+                    <td>55</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>100L1Z</td>
+                    <td>52</td>
+                    <td>24</td>
+                    <td>76</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120C11</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120C1A</td>
+                    <td>47</td>
+                    <td>25</td>
+                    <td>72</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120E1B</td>
+                    <td>51</td>
+                    <td>23</td>
+                    <td>74</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120S1A</td>
+                    <td>55</td>
+                    <td>25</td>
+                    <td>80</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120B1A</td>
+                    <td>66</td>
+                    <td>25</td>
+                    <td>91</td>
+                    <td>PASS</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+    <!-- SEMESTER 2 -->
+    <div class=3D"marksheet-box">
+
+        <h3>Semester 2</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Code</th>
+                    <th>UE</th>
+                    <th>IA</th>
+                    <th>Total Mark</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>100L2A</td>
+                    <td>43</td>
+                    <td>25</td>
+                    <td>68</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>100L2Z</td>
+                    <td>32</td>
+                    <td>25</td>
+                    <td>57</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120C21</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120C2A</td>
+                    <td>42</td>
+                    <td>25</td>
+                    <td>67</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120E2B</td>
+                    <td>30</td>
+                    <td>25</td>
+                    <td>55</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120S21</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>120S2A</td>
+                    <td>64</td>
+                    <td>24</td>
+                    <td>88</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>NMU40</td>
+                    <td>70</td>
+                    <td>25</td>
+                    <td>95</td>
+                    <td>PASS</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+    <!-- SEMESTER 3 -->
+    <div class=3D"marksheet-box">
+
+        <h3>Semester 3</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Code</th>
+                    <th>UE</th>
+                    <th>IA</th>
+                    <th>Total Mark</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>200L3A</td>
+                    <td>49</td>
+                    <td>25</td>
+                    <td>74</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>200L3Z</td>
+                    <td>34</td>
+                    <td>24</td>
+                    <td>58</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220C31</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220C3A</td>
+                    <td>57</td>
+                    <td>23</td>
+                    <td>80</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220E3C</td>
+                    <td>70</td>
+                    <td>25</td>
+                    <td>95</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220S31</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>NMU63</td>
+                    <td>65</td>
+                    <td>25</td>
+                    <td>90</td>
+                    <td>PASS</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+    <!-- SEMESTER 4 -->
+    <div class=3D"marksheet-box">
+
+        <h3>Semester 4</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Code</th>
+                    <th>UE</th>
+                    <th>IA</th>
+                    <th>Total Mark</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>200L4A</td>
+                    <td>48</td>
+                    <td>25</td>
+                    <td>73</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>200L4Z</td>
+                    <td>45</td>
+                    <td>24</td>
+                    <td>69</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>200V4B</td>
+                    <td>55</td>
+                    <td>25</td>
+                    <td>80</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>200V4Q</td>
+                    <td>68</td>
+                    <td>25</td>
+                    <td>93</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220C41</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220C4A</td>
+                    <td>49</td>
+                    <td>25</td>
+                    <td>74</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>220E4C</td>
+                    <td>58</td>
+                    <td>25</td>
+                    <td>83</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>NMU87</td>
+                    <td>61</td>
+                    <td>25</td>
+                    <td>86</td>
+                    <td>PASS</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+    <!-- SEMESTER 5 -->
+    <div class=3D"marksheet-box">
+
+        <h3>Semester 5</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Code</th>
+                    <th>Subject Name</th>
+                    <th>UE</th>
+                    <th>IA</th>
+                    <th>Total Mark</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>320C5A</td>
+                    <td>OPERATING SYSTEM</td>
+                    <td>70</td>
+                    <td>25</td>
+                    <td>95</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320C5B</td>
+                    <td>RDBMS</td>
+                    <td>70</td>
+                    <td>22</td>
+                    <td>95</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320C5C</td>
+                    <td>WEB TECHNOLOGY</td>
+                    <td>73</td>
+                    <td>25</td>
+                    <td>98</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320C51</td>
+                    <td>WEB TECHNOLOGY PRACTICAL</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320E5B</td>
+                    <td>SOFTWARE ENGINEERING</td>
+                    <td>70</td>
+                    <td>23</td>
+                    <td>93</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>-</td>
+                    <td>NAAN MUDHALVAN</td>
+                    <td>65</td>
+                    <td>25</td>
+                    <td>90</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>-</td>
+                    <td>SUMMER INTERNSHIP / INDUSTRIAL VISIT</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+    <!-- SEMESTER 6 -->
+    <div class=3D"marksheet-box">
+
+        <h3>Semester 6</h3>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject Code</th>
+                    <th>Subject Name</th>
+                    <th>UE</th>
+                    <th>IA</th>
+                    <th>Total Mark</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>320C6A</td>
+                    <td>R-PROGRAMMING</td>
+                    <td>70</td>
+                    <td>25</td>
+                    <td>95</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320C61</td>
+                    <td>R-PROGRAMMING PRACTICAL</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320C6B</td>
+                    <td>ADVANCED NETWORKING</td>
+                    <td>65</td>
+                    <td>25</td>
+                    <td>90</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320E6B</td>
+                    <td>DATA MINING &amp; WAREHOUSING</td>
+                    <td>70</td>
+                    <td>25</td>
+                    <td>95</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>320E6D</td>
+                    <td>INTERNET OF THINGS</td>
+                    <td>73</td>
+                    <td>25</td>
+                    <td>98</td>
+                    <td>PASS</td>
+                </tr>
+                <tr>
+                    <td>-</td>
+                    <td>MINI PROJECT &amp; NAAN MUDHALVAN</td>
+                    <td>60</td>
+                    <td>40</td>
+                    <td>100</td>
+                    <td>PASS</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+</section></body></html>
+------MultipartBoundary--HeMgqKxMGssbabE0FNfvjvSyGoiZrahFTK3DZYizHA----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/style.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: Arial, Helvetica, sans-serif; background: rgb(245, 247,=
+ 251); color: rgb(31, 41, 55); line-height: 1.6; }
+
+.hero { background: linear-gradient(135deg, rgb(40, 53, 147), rgb(94, 53, 1=
+77)); color: white; text-align: center; padding: 65px 20px; }
+
+.hero-content { max-width: 900px; margin: auto; }
+
+.top-title { font-size: 15px; letter-spacing: 3px; font-weight: bold; margi=
+n-bottom: 12px; opacity: 0.9; }
+
+.hero h1 { font-size: 48px; margin-bottom: 10px; letter-spacing: 1px; }
+
+.hero p { font-size: 17px; margin: 3px 0px; }
+
+.academic-year { display: inline-block; margin-top: 22px; padding: 10px 22p=
+x; border: 1px solid rgba(255, 255, 255, 0.5); border-radius: 25px; font-si=
+ze: 15px; }
+
+section { width: 90%; max-width: 1100px; margin: 55px auto; }
+
+.section-title { text-align: center; margin-bottom: 28px; }
+
+.section-title h2 { font-size: 30px; color: rgb(40, 53, 147); margin-bottom=
+: 5px; }
+
+.section-title p { color: rgb(107, 114, 128); font-size: 15px; }
+
+.growth-box { background: white; border-radius: 18px; padding: 30px; box-sh=
+adow: rgba(0, 0, 0, 0.08) 0px 8px 25px; display: grid; grid-template-column=
+s: repeat(3, 1fr); gap: 18px; }
+
+.growth-item { background: rgb(241, 243, 255); border-radius: 14px; padding=
+: 25px 15px; text-align: center; border: 1px solid rgb(226, 229, 255); tran=
+sition: 0.3s; }
+
+.growth-item:hover { transform: translateY(-4px); }
+
+.growth-item span { display: block; font-size: 15px; color: rgb(85, 85, 85)=
+; margin-bottom: 8px; }
+
+.growth-item strong { font-size: 30px; color: rgb(74, 63, 181); }
+
+.chart-box { background: white; border-radius: 18px; padding: 35px 30px; bo=
+x-shadow: rgba(0, 0, 0, 0.08) 0px 8px 25px; }
+
+.chart-area { display: flex; height: 330px; }
+
+.y-axis { width: 55px; display: flex; flex-direction: column; justify-conte=
+nt: space-between; padding-bottom: 5px; color: rgb(119, 119, 119); font-siz=
+e: 12px; text-align: right; padding-right: 10px; }
+
+.line-chart { flex: 1 1 0%; position: relative; border-left: 1px solid rgb(=
+216, 220, 229); border-bottom: 1px solid rgb(216, 220, 229); }
+
+.horizontal-line { position: relative; height: 20%; border-top: 1px dashed =
+rgb(225, 228, 234); }
+
+.line-chart svg { position: absolute; width: 100%; height: 100%; left: 0px;=
+ top: 0px; overflow: visible; color: rgb(74, 63, 181); }
+
+.line-chart circle { fill: white; stroke: rgb(74, 63, 181); stroke-width: 4=
+; }
+
+.x-axis { margin-left: 55px; display: flex; justify-content: space-between;=
+ margin-top: 15px; gap: 10px; }
+
+.x-axis span { text-align: center; color: rgb(85, 85, 85); font-size: 13px;=
+ }
+
+.x-axis strong { display: block; color: rgb(74, 63, 181); font-size: 14px; =
+margin-top: 3px; }
+
+.marksheet-box { background: white; padding: 25px; border-radius: 18px; box=
+-shadow: rgba(0, 0, 0, 0.08) 0px 8px 25px; overflow-x: auto; }
+
+table { width: 100%; border-collapse: collapse; min-width: 600px; }
+
+th { background: rgb(74, 63, 181); color: white; padding: 14px; text-align:=
+ left; }
+
+td { padding: 14px; border-bottom: 1px solid rgb(229, 231, 235); color: rgb=
+(85, 85, 85); }
+
+tbody tr:hover { background: rgb(247, 247, 255); }
+
+footer { background: rgb(32, 36, 74); color: white; text-align: center; pad=
+ding: 22px; margin-top: 70px; font-size: 14px; }
+
+@media (max-width: 700px) {
+  .hero { padding: 45px 15px; }
+  .hero h1 { font-size: 34px; }
+  .hero p { font-size: 15px; }
+  section { width: 92%; margin: 40px auto; }
+  .section-title h2 { font-size: 25px; }
+  .growth-box { grid-template-columns: repeat(2, 1fr); padding: 18px; gap: =
+12px; }
+  .growth-item { padding: 20px 10px; }
+  .growth-item strong { font-size: 24px; }
+  .chart-box { padding: 25px 12px; }
+  .chart-area { height: 260px; }
+  .x-axis { margin-left: 45px; }
+  .x-axis span { font-size: 10px; }
+  .x-axis strong { font-size: 11px; }
+  .y-axis { width: 45px; font-size: 10px; }
+}
+------MultipartBoundary--HeMgqKxMGssbabE0FNfvjvSyGoiZrahFTK3DZYizHA------
